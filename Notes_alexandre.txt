@@ -1,0 +1,12 @@
+- Couche 5 à 7 du modèle OSI
+- Utilisé dans plusieurs cas:	- Accès à Internet
+				- Sécurité
+				- Pour le Web
+
+- Différents types de serveurs:	- HTTP
+				- SSH
+				- IMAP
+				- FTP
+				- SMTP
+
+http://www.commentcamarche.net/contents/610-serveur-proxy-et-reverse-proxy
