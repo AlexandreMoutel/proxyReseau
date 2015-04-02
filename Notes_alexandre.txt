@@ -15,3 +15,6 @@ http://www.commentcamarche.net/contents/610-serveur-proxy-et-reverse-proxy
 Créer un proxy pour la démonstration (Optionnel):
 Serveur proxy Squid:	http://www.linuxpedia.fr/doku.php/expert/proxy-squid
 			http://www.squid-cache.org/
+
+RFC HTTP: https://www.ietf.org/rfc/rfc2068.txt
+
