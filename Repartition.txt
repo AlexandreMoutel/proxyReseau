@@ -1,6 +1,7 @@
 A qui ça sert ?
 Comment ça marche ?
 Type de proxy (HTTP, FTP, SMTP, etc)
+Protocoles utilisés
 Avantage
 Danger
 Démonstration
