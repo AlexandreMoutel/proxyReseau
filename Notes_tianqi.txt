@@ -1,0 +1,4 @@
+Pourquoi ça existe Proxy?
+(Pourquoi nous faisons pas la connexion directe entre la machine et le serveur)
+
+
