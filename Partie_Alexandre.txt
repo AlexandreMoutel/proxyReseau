@@ -1,0 +1,17 @@
+Pourquoi ça existe ?
+Le proxy existe dans le but de contrôler et faciliter les échanges entre deux hôtes ou réseaux.
+Il est principalement utilisé pour connecter un réseau à Internet.
+
+Comment ça marche ?
+(Exemple avec HTTP)
+-Sans Proxy (HTTP)
+En rentrant une adresse dans le navigateur, l'ordinateur se connecte au serveur de l'URL demandée et retourne la page.
+
+Mettre image comment_ça_marche_1.gif
+
+-Avec un Proxy (HTTP)
+Lorsque l'on rentre une URL, l'ordinateur se connecte au proxy et lui transmet sa demande de connexion.
+Ensuite, le proxy se connecte au serveur de l'URL demandée et lui retourne la page.
+Une fois que la page lui est retourné, il retourne la page à l'ordinateur.
+
+Mettre image comment_ça_marche_2.gif
