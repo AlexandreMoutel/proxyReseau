@@ -21,3 +21,8 @@ Une fois que la page lui est retourné, il retourne la page à l'ordinateur.
 Mettre image comment_ça_marche_2.gif
 
 
+
+
+
+
+
