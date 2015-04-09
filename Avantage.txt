@@ -1,7 +1,7 @@
 Les serveurs proxy sont des machines utilisées pour canaliser le trafic Internet à travers un ordinateur. Les administrateurs réseau utilisent un serveur proxy pour diriger le trafic Internet, améliorer la vitesse, cache des pages populaires et sécuriser le réseau interne contre les logiciels malveillants. Ces avantages font de l'utilisation de serveurs proxy une pratique commune dans les petites et les grands bureaux. 
 
 
-Cachette  
+Cache  
 
 Il y a plusieurs avantages à avoir des versions en cache des pages web en utilisant un serveur proxy. Tout d'abord, il permet de réduire la quantité de consommation de bande passante. Cela est particulièrement bénéfique pour les entreprises qui versent des sommes importantes lors de l'utilisation de la bande passante dépasse fournisseur haut débit trafic maximale autorisée. Les utilisateurs qui accèdent à Internet via un serveur proxy sont donnés la page en cache au lieu d'utiliser la bande passante pour récupérer la page Web hébergée. Deuxièmement, la récupération d'une page mise en cache du serveur proxy est plus rapide pour l'utilisateur. Ces deux avantages font qu'il est plus pratique pour l'utilisateur et l'administrateur du réseau.Un serveur proxy fournit une solution plausible pour quelqu'un qui veut une intimité totale. Votre adresse IP ne sera pas impliqué dans toute transaction entre vous et l'hôte à qui vous voulez parler, ce qui rend le serveur complètement inconscients de votre présence. 
 
