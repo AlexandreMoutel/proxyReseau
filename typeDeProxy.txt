@@ -30,4 +30,11 @@ Different type de Proxy:
 -Serveur proxy pour le protocole FTP
 
  numero de port: 21 ou 2121
+
+
+
+
+-serveur proxy socks
+
+
  
