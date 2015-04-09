@@ -1,0 +1,13 @@
+Un serveur proxy agit comme un intermédiaire entre l'Internet et un réseau. Bien que ses avantages comprennent dissimulant le réseau de l'Internet et stocker des informations dans une méthode appelée mise en cache, les dépenses et les abus de ses utilisations supplémentaires mis dans une situation désavantageuse.
+
+Frais supplémentaires
+
+Avoir un serveur proxy est une dépense supplémentaire et ajoute à la gestion et l'entretien du réseau. Alors que la dépense peut être petit pour les grandes entreprises, il peut en retrait d'une petite et moyenne entreprise par plusieurs milliers de dollars pour l'installation et l'entretien.
+
+La mise en cache
+
+Les serveurs proxy peuvent mettre en cache les informations précédemment consultée - vanté d'être l'un de leurs avantages, car elle réduit le trafic réseau sortant à Internet. Pour les utilisateurs ordinaires, cependant, la mise en cache signifie qu'il ya une chance que les informations affichées sur le site Web auquel vous accédez est pas la dernière. En effet, lorsque vous accédez à un site Web, le serveur proxy vérifie d'abord si elle a déjà données concernant le site et vous nourrit ce qu'il a.
+
+Contournement des restrictions
+
+Certains serveurs proxy sont configurés pour être ouvert, ce qui signifie qu'ils agissent comme un intermédiaire entre l'Internet et un ordinateur individuel. Si un réseau a des restrictions sur les sites Web ne sont pas autorisés, un ordinateur à l'intérieur du réseau qui connaît un proxy ouvert peut l'utiliser pour contourner ces restrictions. Cela compromet le réseau, parce que le logiciel malveillant peut attaquer l'ordinateur via le proxy ouvert et pénétrer à l'intérieur du réseau.
