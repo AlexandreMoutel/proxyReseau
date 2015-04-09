@@ -20,6 +20,22 @@ RFC HTTP: https://www.ietf.org/rfc/rfc2068.txt
 
 En HTTPS, la trame passe dans le proxy sans être modifié.
 
+Livre Réseau informatique:
+
+4. Proxy
+
+Le serveur mandataire, ou proxy, est particulièrement utilisé dans le cadre de trafics Hyper Text Transfer Protocol (HTTP), voire File Transfer Protocol (FTP) entre le réseau LAN et l’Internet. On peut considérer qu’il complète l’équipement pare-feu.
+
+Interceptant une demande vers l’extérieur, le proxy la fait en son propre nom, puis stocke les données renvoyées. Ensuite, il les retransmet au demandeur initial. L’intérêt du proxy est double. Tout d’abord, il camoufle les adresses IP internes, puisque la demande n’est pas prolongée jusqu’à l’Internet. Ensuite, il autorise des filtrages, par exemple pour interdire l’accès à certains sites web.
+
+Un troisième avantage du proxy est sa capacité à gérer une mémoire cache. Ainsi, il est possible d’éviter de redemander un fichier ou un site sur Internet. Au niveau Web, une telle fonction est à relativiser. En effet, un site dynamique change tellement régulièrement qu’on peut souvent considérer qu’il est rechargé à chaque demande.
+
+image1
+
+Un équipement de serveur mandataire inverse (reverse proxy) intercepte une demande, par exemple de site web, provenant de l’extérieur, vers un serveur interne. Il permet ainsi d’éviter que de telles requêtes arrivent sur un serveur plus sensible.
+
+image2
+
 ----------------------------------------------------------------------------
 Pourquoi ça existe ?
 
