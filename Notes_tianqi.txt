@@ -1,8 +1,0 @@
-Pourquoi ça existe Proxy?
-(Pourquoi nous faisons pas la connexion directe entre la machine et le serveur)
-
-http://www.linkwan.com/GB/broadtech/article/proxy.htm
-
-代理服务器为什么存在
-
-

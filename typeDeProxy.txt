@@ -1,0 +1,20 @@
+Different type de Proxy:
+
+-Serveur proxy pour le protocole HTTP
+
+ tunnel HTTP 
+
+ CONNECT 124.xxx.xxx.xx:443 HTTP/1.1 //pour construire le tunnel http port 443
+ Proxy-Connection: Keep-Alive   //une connection continue 
+ Content-Length: 0
+ Host: 124.xxx.xxx.xx   //adresse ip de client
+ Proxy-Authorization:Basic YTph //identification
+ User-Agent: OpenFetion /ex, version de navigateur, système d'utilisation,language
+
+ Après connection
+
+ HTTP/1.0 200 Connection established
+
+ Proxy-Authorization est l'identification de utilisateur，username:password en base64
+
+-Serveur proxy pour le protocole FTP
