@@ -18,3 +18,8 @@ Serveur proxy Squid:	http://www.linuxpedia.fr/doku.php/expert/proxy-squid
 
 RFC HTTP: https://www.ietf.org/rfc/rfc2068.txt
 
+----------------------------------------------------------------------------
+Pourquoi ça existe ?
+
+
+Comment ça marche ?
