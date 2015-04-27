@@ -16,7 +16,8 @@ Different type de Proxy:
  HTTP/1.0 200 Connection established
 
  Proxy-Authorization est l'identification de utilisateur，username:password en base64
- 
+  
+
  
  
  
