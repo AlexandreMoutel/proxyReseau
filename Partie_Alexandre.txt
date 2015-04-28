@@ -19,10 +19,3 @@ Ensuite, le proxy se connecte au serveur de l'URL demandée et lui retourne la p
 Une fois que la page lui est retourné, il retourne la page à l'ordinateur.
 
 Mettre image comment_ça_marche_2.gif
-
-
-
-
-
-
-
